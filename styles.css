@@ -1,0 +1,30 @@
+
+.head{
+    text-align: center;
+    color: rgb(6, 135, 248);
+    font-weight: bolder;
+    font-style: italic;
+}
+
+body {
+margin:50px 0px; padding:0px;
+text-align:center;
+align:center;
+background-image: url("photo-1625225233840-695456021cde.jpeg");
+}
+#c1{
+    padding: 5px;
+    background-color: rgb(155, 230, 248);
+    font-weight: bold;
+}
+#c2{
+    padding: 5px;
+    background-color: rgb(155, 230, 248);
+    font-weight: bold;
+}
+.b1{
+    padding: 5px;
+    background-color: rgb(137, 236, 142);
+    font-weight: bolder;
+    
+}
